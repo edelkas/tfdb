@@ -1,0 +1,10 @@
+production:
+  program: tfdb
+  version: 1
+  json: tfdb.json
+  language: EN
+  autolog: true
+  autosave: true
+  autobackup: true
+  list_limit: 20
+  list_separation: 5
